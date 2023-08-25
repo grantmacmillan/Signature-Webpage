@@ -18,3 +18,5 @@ The user can draw their signature inside of the indicated region.
 The user can clear the canvas by pressing the "clear" buttton.
 
 The user can download their signature onto their device by pressing the "save" button. *Signature is downloaded in .PNG format.*
+
+The user can use the application on various screen sizes, allowing for a minimum size of 320px.
