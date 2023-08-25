@@ -1,14 +1,14 @@
 # Signature-Webpage
 Made by Grant MacMillan using React.
 
-To Run:
+**To Run:**
 -Run npm install to install all needed node_modules
 
 -Run npm start
 
 you should now see the website running on local host.
 
-Acceptance Checks: 
+**Acceptance Checks:**
 
 The user can use the application on mobile or desktop. *tested using google chrome device emulator*
 
