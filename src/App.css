@@ -39,17 +39,17 @@ center {
 
 
 .signature-field {
-  border: 2px solid #000; /* Border style */
+  border: 2px solid #000; 
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60vh; /* You can adjust the height as needed */
+  height: 60vh; 
 }
 
 .signature-canvas {
-  border: 1px solid #fefefe; /* Additional border for the canvas */
+  border: 1px solid #fefefe; 
   width: 100%;
-  max-width: 800px; /* Set a maximum width if you want to limit the canvas size */
+  max-width: 800px; 
   height: 100%;
 }
 
